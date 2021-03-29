@@ -1,22 +1,6 @@
 {
     "name": "bacthaychemgio11/backend_web2",
-    "description": "Create text",
-    "keywords": [       
-    ],
-    "authors": [
-        {
-            "name": "tailieuweb",
-            "email": "bacthaychemgio11.com@gmail.com",
-            "homepage": "http://tailieuweb.com"
-        }
-    ],
-    "license": "MIT",
     "require": {
-    },
-    "autoload": {
-        "psr-4": {
-            "Tailieuweb\\Backend\\": "/"
-        }
-    },
-    "minimum-stability": "dev"
+	"bacthaychemgio11/backend_web2":"1.0.4"
+    }
 }
