@@ -1,6 +1,6 @@
 {
-    "name": "bacthaychemgio11/backend_web2",
+    "name": "bacthaychemgio11/backendweb2",
     "require": {
-	"bacthaychemgio11/backend_web2":"1.0.4"
+	"bacthaychemgio11/backendweb2":"1.0.4"
     }
 }
