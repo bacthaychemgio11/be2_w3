@@ -1,3 +1,5 @@
 {
-    "name": "bacthaychemgio11/backendweb2"
-}
+    "name": "bacthaychemgio11/be2_w3",
+     "require": {
+        "bacthaychemgio11/be2_w3":"dev-main"
+    }
